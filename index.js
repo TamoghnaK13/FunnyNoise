@@ -1,1 +1,1 @@
-$('#btn').click( () => new Audio('mp3/haha.mp3').play() );
+$('#btn').click( () => new Audio('haha.mp3').play() );
