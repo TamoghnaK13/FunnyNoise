@@ -1,10 +1,10 @@
 div#lH {
   position: absolute;
-  width: 30px;
-  height: 30px;
+  width: 900px;
+  height: 900px;
   overflow: hidden;
   z-index: 1;
-  font-size: 25px;
+  font-size: 900px;
   text-align:center;
 }
 audio#aH {
@@ -12,5 +12,5 @@ audio#aH {
   top: -5px;
   left: -5px;
   z-index: 2;
-  opacity: 0.01;
+  opacity: 1;
 }
