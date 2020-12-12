@@ -4,12 +4,12 @@
   "description": "Tamoghna Kommaraju's Official Developer and Portfolio Progressive Web App",
   "icons": [
     {
-      "src": "a.png",
+      "src": "small.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "a.png",
+      "src": "big.png",
       "type": "image/png",
       "sizes": "512x512"
     }
